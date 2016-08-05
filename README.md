@@ -12,5 +12,6 @@ securing one end of the cable.
 
 ## Physical Print
 
-![Physical Print](physical-print.png)
-![Plugged In](physical-socket.png)
+![Physical Print](physical-print.jpg)
+![In Use](physical-use.jpg)
+![Headphone Jack](physical-socket.jpg)
